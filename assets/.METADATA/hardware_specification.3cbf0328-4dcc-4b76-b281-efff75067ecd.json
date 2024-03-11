@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "name": "env",
+    "description": "",
+    "origin_country": "US",
+    "tags": [
+      "dsx"
+    ],
+    "asset_type": "hardware_specification",
+    "rov": {
+      "mode": 0
+    },
+    "asset_category": "USER",
+    "created_at": "2024-03-08T15:31:01Z",
+    "created": 1709911861583,
+    "asset_id": "hardware_specification.3cbf0328-4dcc-4b76-b281-efff75067ecd",
+    "asset_attributes": [
+      "hardware_specification"
+    ]
+  },
+  "entity": {
+    "hardware_specification": {
+      "nodes": {
+        "cpu": {
+          "units": "1",
+          "model": ""
+        },
+        "mem": {
+          "size": "2Gi"
+        }
+      }
+    }
+  },
+  "attachments": []
+}
