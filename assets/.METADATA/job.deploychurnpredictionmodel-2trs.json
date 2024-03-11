@@ -1,16 +1,15 @@
 {
   "metadata": {
-    "name": "deploy-train-churn-prediction-model",
+    "name": "deploy-churn-prediction-model",
     "asset_type": "job",
     "origin_country": "us",
     "asset_category": "USER",
-    "created_at": "2023-01-15T11:49:40Z",
-    "created": 1673783380621,
-    "asset_id": "job.deploytrainchurnpredictionmodel",
+    "created_at": "2024-03-11T12:12:32Z",
+    "created": 1710159152962,
+    "asset_id": "job.deploychurnpredictionmodel-2trs",
     "asset_attributes": [
       "job"
-    ],
-    "description": "Train churn prediction model"
+    ]
   },
   "entity": {
     "job": {
@@ -31,7 +30,7 @@
       "retention_policy": {
         "amount": 5
       },
-      "project_name": "mlops-churn-prediction-46",
+      "project_name": "mlops-dev",
       "schedule_id": "",
       "schedule_creator_id": ""
     }
